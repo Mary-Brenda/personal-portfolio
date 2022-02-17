@@ -29,7 +29,7 @@ body {
 }
 
 p#update {
-    font-size: 1em;
+    font-size: 1.2em;
     animation: none;
     font-style: italic;
     font-weight: lighter;
@@ -62,7 +62,7 @@ p#update {
 
 #navbar ul li {
     float: right;
-    margin-right: 40px;
+    margin-right: 60px;
 }
 
 #navbar ul li a {
@@ -70,6 +70,7 @@ p#update {
     display: block;
     padding: 3px 30px;
     color: #fff;
+    font-size: 1.5em;
 }
 
 #navbar ul li a:hover {
