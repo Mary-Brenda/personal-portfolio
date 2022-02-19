@@ -107,12 +107,13 @@ p#update {
     color: hsl(270, 50%, 50%);
 }
 
-#project-pic-with-longer-title {
+.project-pic-with-longer-title {
     height: 170px;
 }
 
-#double-line-project-title {
+.double-line-project-title {
     padding-top: 0;
+    font-size: 14.9px;
 }
 
 .show-all {
